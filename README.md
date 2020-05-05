@@ -5,7 +5,7 @@
 
 To run Backend
 
--> Go to sinzy_assignment/backend
+-> Go to mernAssigment/backend
 
 ### `npm install` 
 
@@ -15,7 +15,7 @@ To run Front-End
 
 In the project directory, you can run:
 
--> Go to sinzy_assignment/frontend
+-> Go to mernAssigment/frontend
 
 ### `npm install` 
 
